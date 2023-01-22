@@ -1,0 +1,3 @@
+# Function Overlaoding in CPP 
+
+In C++, function overloading is the ability of a single function to have multiple implementations, depending on the number and types of arguments passed to it. This allows for more efficient and readable code, as the same function name can be used to perform different actions, depending on the context in which it is called. When a function is called, the compiler determines which implementation to use based on the number and types of arguments passed to the function.
